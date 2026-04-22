@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm abrauri098raurirauri Abraham</h1>
+<h1 align="center">Hi 👋, I'm abrauri098 Abraham</h1>
 <h3 align="center">Me gusta jugar videojuegos</h3>
 
 - 🔭 I’m currently working on **mi casa y escuela**
